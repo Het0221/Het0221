@@ -63,9 +63,14 @@ Every repo here is where theory meets practice — hands-on labs in exploit deve
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Certifications
-![Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Network_%26_Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 ---
 
 ## 🧪 Featured Labs
@@ -85,10 +90,4 @@ Currently seeking **cybersecurity engineering roles** where I can apply hands-on
 
 ---
 
-## 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Network_%26_Network_Security-34A853?style=for-the-badge&logo=google&logoColor=white" />
-</p>
